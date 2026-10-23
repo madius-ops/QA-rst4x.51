@@ -1,1 +1,1 @@
-print("Change from main")
+print("Merged change from both branches")
